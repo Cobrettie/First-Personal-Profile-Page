@@ -67,7 +67,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  background-image: url("nightlights.jpg");
+  background-image: url("city-day.jpg");
 }
 
 header {
@@ -96,8 +96,8 @@ header .profile-image:hover {
 }
 
 .location {
-  background-color: #222;
-  color: white;
+  background-color: #efefef;
+  color: black;
 }
 
 
@@ -113,7 +113,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #00BFFF;
 }
 
 ul.skills {
