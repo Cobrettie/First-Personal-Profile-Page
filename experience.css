@@ -100,8 +100,6 @@ header .profile-image:hover {
   color: black;
 }
 
-
-
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -176,9 +174,6 @@ a.social:hover {
   clear: both;
 }
 
-
-
-
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
@@ -190,11 +185,6 @@ a.social:hover {
       justify-content: space-around;
       margin: 0 auto;
   }
-
-
-
-
-
 
 header {
   min-height: 470px;
